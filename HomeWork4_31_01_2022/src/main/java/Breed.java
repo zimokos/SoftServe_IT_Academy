@@ -1,3 +1,0 @@
-public enum Breed {
-    GERMAN_SHEPHERD, DOBERMANN, ROTTWEILER
-}
